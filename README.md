@@ -24,5 +24,6 @@ with C. I will try to overwrite some examples from this book.
 - [rust-grep](https://github.com/TomSawyer404/rust-grep)
 - [rust-shell](https://github.com/TomSawyer404/rust-shell)
 - [rust-echo](https://github.com/TomSawyer404/rust-echo)
+- [rust-wc](https://github.com/TomSawyer404/rust-wc)
 
 ---
