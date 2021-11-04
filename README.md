@@ -25,5 +25,6 @@ with C. I will try to overwrite some examples from this book.
 - [rust-shell](https://github.com/TomSawyer404/rust-shell)
 - [rust-echo](https://github.com/TomSawyer404/rust-echo)
 - [rust-wc](https://github.com/TomSawyer404/rust-wc)
+- [rust-weather](https://github.com/TomSawyer404/rust-weather)
 
 ---
