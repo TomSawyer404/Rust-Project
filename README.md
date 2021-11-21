@@ -27,4 +27,19 @@ with C. I will try to overwrite some examples from this book.
 - [rust-wc](https://github.com/TomSawyer404/rust-wc)
 - [rust-weather](https://github.com/TomSawyer404/rust-weather)
 
+# Design Pattern
+
+## CreationalPatterns
+
+- [Builder Pattern](https://github.com/TomSawyer404/builder-pattern)
+- [Factory Method Pattern](https://github.com/TomSawyer404/factory_method-pattern)
+- [Abstract Factory Pattern](https://github.com/TomSawyer404/abstract_factory-pattern)
+
+## BehavioralPatters
+
+- [Iterator Pattern](https://github.com/TomSawyer404/iterator-pattern)
+- [Observer Pattern](https://github.com/TomSawyer404/observer-pattern)
+- [Strategy Pattern](https://github.com/TomSawyer404/strategy-pattern)
+- [Chain of Responsibility Pattern](https://github.com/TomSawyer404/chain_of_responsibility-pattern)
+
 ---
