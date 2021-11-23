@@ -42,4 +42,9 @@ with C. I will try to overwrite some examples from this book.
 - [Strategy Pattern](https://github.com/TomSawyer404/strategy-pattern)
 - [Chain of Responsibility Pattern](https://github.com/TomSawyer404/chain_of_responsibility-pattern)
 
+## StructuralPatterns
+
+- [Adapter Pattern](https://github.com/TomSawyer404/adapter-pattern)
+- [Proxy Pattern](https://github.com/TomSawyer404/proxy-pattern)
+
 ---
