@@ -26,6 +26,8 @@ with C. I will try to overwrite some examples from this book.
 - [rust-echo](https://github.com/TomSawyer404/rust-echo)
 - [rust-wc](https://github.com/TomSawyer404/rust-wc)
 - [rust-weather](https://github.com/TomSawyer404/rust-weather)
+- [rust-webserver](https://github.com/TomSawyer404/rust-webserver)
+- [csv-challenge](https://github.com/TomSawyer404/csv_challenge)
 
 # Design Pattern
 
