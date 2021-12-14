@@ -28,6 +28,8 @@ with C. I will try to overwrite some examples from this book.
 - [rust-weather](https://github.com/TomSawyer404/rust-weather)
 - [rust-webserver](https://github.com/TomSawyer404/rust-webserver)
 - [csv-challenge](https://github.com/TomSawyer404/csv_challenge)
+- [ip-sniffer](https://github.com/TomSawyer404/rust-port_scanner)
+- [rust-chat](https://github.com/TomSawyer404/rust-chat)
 
 # Design Pattern
 
